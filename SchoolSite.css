@@ -5,4 +5,7 @@ h1 {
 body {
     background-color: rgb(150,0,200);
 }
-    
+p {
+   color: rgb(100,0,100);
+   font-family: Helvetica,"sans-serif" 
+} 
