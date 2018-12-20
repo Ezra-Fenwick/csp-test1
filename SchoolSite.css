@@ -1,11 +1,11 @@
 h1 {
-    color: rgb(100,0,150);
-    font-family: Helvetica,"sans-serif"; 
+    color: rgb(50,0,0);
+    font-family: "Times New Roman",serif; 
 }
 body {
-    background: rgb(150,0,200) url("Best Pikachu.jpg") repeat-y;
+    background: rgb(50,50,50) url("Best Pikachu.jpg") repeat-y;
 }
 p {
     color: rgb(255,255,255);
-    font-family: Helvetica,"sans-serif" 
+    font-family: "Times New Roman",serif; 
 }
