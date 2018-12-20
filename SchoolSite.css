@@ -3,7 +3,7 @@ h1 {
     font-family: Helvetica,"sans-serif"; 
 }
 body {
-    background-color: rgb(150,0,200);
+    background-image: rgb(150,0,200) "Best Pikachu.jpg" repeat-x;
 }
 p {
     color: rgb(255,255,255);
