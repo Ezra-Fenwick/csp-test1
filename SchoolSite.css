@@ -1,9 +1,9 @@
 h1 {
-    color: rgb(50,0,0);
+    color: rgb(70,0,0);
     font-family: "Times New Roman",serif; 
 }
 body {
-    background: rgb(50,50,50) url("Best Pikachu.jpg") repeat-y;
+    background: rgb(50,50,50) url("Best Pikachu.jpg") no-repeat;
 }
 p {
     color: rgb(255,255,255);
